@@ -34,9 +34,11 @@ host: 0.0.0.0
 
 
 # Build settings
-theme: cayman
+#theme: cayman
+remote-theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
