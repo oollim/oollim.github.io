@@ -34,7 +34,7 @@ host: 0.0.0.0
 
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: cayman
 plugins:
   - jekyll-feed
 
